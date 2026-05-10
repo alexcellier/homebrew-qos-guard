@@ -1,9 +1,9 @@
 class QosGuard < Formula
   desc "CLI tool for per-process bandwidth limiting using proxy-based QoS"
-  homepage "https://github.com/nicely-deep/CLI-QoS"
-  url "https://github.com/nicely-deep/CLI-QoS.git",
+  homepage "https://github.com/alexcellier/qos-guard-cli"
+  url "https://github.com/alexcellier/qos-guard-cli.git",
       :tag => "v1.0.0",
-      :revision => "a1b2c3d4e5f6"  # Update with actual commit SHA on release
+      :revision => "COMMIT_SHA_HERE"  # Update with actual commit SHA on release
   
   license "MIT"
   
